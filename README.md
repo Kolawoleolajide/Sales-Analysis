@@ -52,3 +52,9 @@ These insights help businesses understand where revenue is coming from, what’s
 This project was a fun learning experience inspired by Daniel’s tutorial and helped me practice replicating real-world dashboards while adding my own creativity.
 
 If you’d like to view the dashboard or share suggestions, feel free to connect!
+
+## 👤 Author
+**Kolawole Olajide**  
+💼 [GitHub Profile](https://github.com/Kolawoleolajide)
+🔗 [LinkedIn](www.linkedin.com/in/kolawole-olajide)  
+
