@@ -33,9 +33,8 @@ These insights help businesses understand where revenue is coming from, what’s
 
 ## 🖼 **Dashboard Preview**
 
-```
-![Dashboard Overview](https://github.com/user-attachments/assets/7d2c0dc8-525b-4c0b-bd4d-300956220325)
-```
+![Salesdashboard](https://github.com/user-attachments/assets/4f60568b-4417-4ab4-a002-b47fc6a72e9f)
+
 ---
 
 ## 🚀 **What I Learned**
